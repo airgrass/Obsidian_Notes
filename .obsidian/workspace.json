@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "1b42f33800858875",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee35ec859fb19be3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce80c5b4ec0a678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Notes/Obsidian使用.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian使用"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b33871015396cab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "296e56bb3991858e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd16d6ba80193ea0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b943ea2233981cd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4e3534eb13ea2713",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "138b114f74f3a2c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cf018f09cb44d6",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "53494aeb925ff694",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Notes/Obsidian使用.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian使用 的大纲"
+            }
+          },
+          {
+            "id": "f815ddb86aa1e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "611e0ef74afb8808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "47132886b10dcdf0",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "8fa9d59897eb6cd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202512172018.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "202512172018 的反向链接列表"
+            }
+          },
+          {
+            "id": "23648898ff8d5032",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202512172018.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "202512172018 的出链列表"
+            }
+          },
+          {
+            "id": "8887c2eddb16603e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "bases:创建新数据库": false,
+      "templates:插入模板": false,
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "pkmer:Open Pkmer Market": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": true,
+      "command-palette:打开命令面板": true
+    }
+  },
+  "active": "8ce80c5b4ec0a678",
+  "lastOpenFiles": [
+    "_template/common.md",
+    "1_日记/2025-12-19.md",
+    "zzz/202512192002.md",
+    "_assets/zzz/202512192002/Pasted image 20251219200239.jpg",
+    "_assets/1_日记/2025-12-19/Pasted image 20251219200322.jpg",
+    "_assets/1_日记/2025-12-19/Pasted image 20251219200322.png",
+    "_assets/1_日记/2025-12-19",
+    "_assets/1_日记",
+    "_assets/zzz/202512192002/Pasted image 20251219200239.png",
+    "_assets/zzz/202512192002",
+    "_assets/zzz",
+    "2_Notes/Obsidian使用.md",
+    "1_日记/2025-12-03.md",
+    "zzz/202512190103.md",
+    "_assets/2_Notes/Obsidian使用",
+    "_assets/2_Notes",
+    "tmp/202512190059.md",
+    "tmp/202512190012.md",
+    "_assets/Notes/Obsidian使用",
+    "_assets/Notes/2025-12-18",
+    "_assets/Notes",
+    "2_Notes",
+    "tmp/202512182341.md",
+    "tmp/202512190008.md",
+    "_assets/2_Notes/Obsidian使用/Pasted image 20251219000623.jpg",
+    "_assets/日记/2025-12-18/Pasted image 20251219000623.png",
+    "_assets/2_Notes/Obsidian使用/Pasted image 20251219000322.jpg",
+    "_assets/日记/2025-12-18/Pasted image 20251219000322.png",
+    "_assets/2_Notes/Obsidian使用/Pasted image 20251219000238.jpg",
+    "_assets/日记/2025-12-18/Pasted image 20251219000238.png",
+    "日记/202512182342.md",
+    "日记/202512172337.md",
+    "日记/2025-12-10.md",
+    "日记/2025-12-12.md",
+    "日记/2025-12-15.md",
+    "日记/2025-12-16.md",
+    "_template/日记.md",
+    "日记/今天日7记00.md",
+    "日记/2025-12-31.md",
+    "日记/2025-12-05.md",
+    "日记/2025-12-17.md",
+    "日记/2025-12-09.md",
+    "日记/2025-12-11.md",
+    "日记/2025-12-22.md",
+    "日记/2025-12-23.md",
+    "未命名.canvas"
+  ]
+}

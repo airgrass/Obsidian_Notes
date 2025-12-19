@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "showInlineTitle": false
+}
