@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c99269a7e7074918",
+        "id": "083d6e5543f4239c",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cf3ef8ff3acb88",
+            "id": "ca19aa4f71e04847",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8cf3ef8ff3acb88",
+  "active": "ca19aa4f71e04847",
   "lastOpenFiles": [
     "README.md",
     "2_Notes/Obsidian使用.md",
