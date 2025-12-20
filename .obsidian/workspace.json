@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee35ec859fb19be3",
+        "id": "c99269a7e7074918",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce80c5b4ec0a678",
+            "id": "f8cf3ef8ff3acb88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Notes/Obsidian使用.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian使用"
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "296e56bb3991858e",
         "type": "tabs",
+        "dimension": 69.8685540950455,
         "children": [
           {
             "id": "dd16d6ba80193ea0",
@@ -73,6 +70,34 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f7cb9b5a598d4e07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ef738e2577c89ea0",
+        "type": "tabs",
+        "dimension": 30.1314459049545,
+        "children": [
+          {
+            "id": "8887c2eddb16603e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -87,7 +112,6 @@
       {
         "id": "d8cf018f09cb44d6",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "53494aeb925ff694",
@@ -95,13 +119,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Notes/Obsidian使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian使用 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "8fa9d59897eb6cd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "23648898ff8d5032",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
             }
           },
           {
@@ -133,62 +189,12 @@
               "title": "标签"
             }
           }
-        ]
-      },
-      {
-        "id": "47132886b10dcdf0",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "8fa9d59897eb6cd4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "202512172018.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "202512172018 的反向链接列表"
-            }
-          },
-          {
-            "id": "23648898ff8d5032",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "202512172018.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "202512172018 的出链列表"
-            }
-          },
-          {
-            "id": "8887c2eddb16603e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +208,15 @@
       "pkmer:Open Pkmer Market": true,
       "daily-notes:打开/创建今天的日记": true,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": true,
-      "command-palette:打开命令面板": true
+      "command-palette:打开命令面板": true,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ce80c5b4ec0a678",
+  "active": "f8cf3ef8ff3acb88",
   "lastOpenFiles": [
+    "README.md",
+    "2_Notes/Obsidian使用.md",
+    "_assets/README",
     "_template/common.md",
     "1_日记/2025-12-19.md",
     "zzz/202512192002.md",
@@ -218,7 +228,6 @@
     "_assets/zzz/202512192002/Pasted image 20251219200239.png",
     "_assets/zzz/202512192002",
     "_assets/zzz",
-    "2_Notes/Obsidian使用.md",
     "1_日记/2025-12-03.md",
     "zzz/202512190103.md",
     "_assets/2_Notes/Obsidian使用",
@@ -228,7 +237,6 @@
     "_assets/Notes/Obsidian使用",
     "_assets/Notes/2025-12-18",
     "_assets/Notes",
-    "2_Notes",
     "tmp/202512182341.md",
     "tmp/202512190008.md",
     "_assets/2_Notes/Obsidian使用/Pasted image 20251219000623.jpg",
@@ -251,7 +259,6 @@
     "日记/2025-12-09.md",
     "日记/2025-12-11.md",
     "日记/2025-12-22.md",
-    "日记/2025-12-23.md",
     "未命名.canvas"
   ]
 }

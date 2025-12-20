@@ -21,6 +21,21 @@ date: 2025-12-19 00:11
 - Clear Unused Images: 
 	- 用于删除未使用的attachments
 
-## 3 让代码块可执行
+## 3 Canlendar：方便记日记、周记
+
+## 4 Number Heading: 自动编号标题、生成目录
+
+## 5 Editing Toolbar：编辑工具
+
+## 6 Various Complements: 自动补全
+
+## 7 个性化设置
+- Styte Setting: 自定义各种主题的样式
+- Callout Mangament: 修改Callout样式，新增自定义Callout
+
+## 8 让代码块可执行
 - Execute Code: 本地执行，不可交互
 - Code Emitter: 远程调用，沙盒，可交互
+
+## 9 I18N: 一键获取插件设置翻译, 手动翻译, 一键还原，版本跟踪
+
