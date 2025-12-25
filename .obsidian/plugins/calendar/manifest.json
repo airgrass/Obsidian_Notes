@@ -1,10 +1,1 @@
-{
-  "id": "calendar",
-  "name": "Calendar",
-  "description": "Calendar view of your daily notes",
-  "version": "1.5.10",
-  "author": "Liam Cain",
-  "authorUrl": "https://github.com/liamcain/",
-  "isDesktopOnly": false,
-  "minAppVersion": "0.9.11"
-}
+{"id":"calendar-event-sync","name":"Calendar Event Sync","version":"2.1.2","minAppVersion":"1.5.8","description":"Sync a relevant calendar event to your current note.","author":"Stephen Dolan","authorUrl":"https://stephendolan.com","isDesktopOnly":true}
