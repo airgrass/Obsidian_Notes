@@ -11,14 +11,10 @@
             "id": "ca19aa4f71e04847",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
             }
           }
         ]
@@ -112,13 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
