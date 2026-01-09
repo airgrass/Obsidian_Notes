@@ -1,0 +1,90 @@
+{
+  "userAdmonitions": {
+    "hibox": {
+      "type": "hibox",
+      "color": "255, 187, 0",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "自动隐藏框",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "col2": {
+      "type": "col2",
+      "color": "184, 81, 81",
+      "icon": {
+        "name": "lucide-split-square-horizontal",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "col2",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "col3": {
+      "type": "col3",
+      "color": "152, 67, 67",
+      "icon": {
+        "name": "lucide-columns-3",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "col3",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "col4": {
+      "type": "col4",
+      "color": "184, 111, 111",
+      "icon": {
+        "name": "lucide-columns-4",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "col4",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "kanban": {
+      "type": "kanban",
+      "color": "137, 0, 250",
+      "icon": {
+        "name": "lucide-folder-kanban",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.e026d8"
+}

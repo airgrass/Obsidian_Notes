@@ -1,0 +1,151 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "_assets",
+        "_template",
+        "Excalidraw",
+        "日记",
+        "Notes",
+        "zzz"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets": {
+      "children": [
+        "_assets/zzz",
+        "_assets/日记",
+        "_assets/Notes",
+        "_assets/_private_data"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/_private_data": {
+      "children": [
+        "_assets/_private_data/copilot",
+        "_assets/_private_data/various_complements_dict.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/_private_data/copilot": {
+      "children": [
+        "_assets/_private_data/copilot/copilot-conversations",
+        "_assets/_private_data/copilot/copilot-custom-prompts"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/_private_data/copilot/copilot-conversations": {
+      "children": [
+        "_assets/_private_data/copilot/copilot-conversations/gg@20260103_225838.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/_private_data/copilot/copilot-custom-prompts": {
+      "children": [
+        "_assets/_private_data/copilot/copilot-custom-prompts/Emojify.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Explain like I am 5.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Generate glossary.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Generate table of contents.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Make longer.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Make shorter.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Remove URLs.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Rewrite as tweet.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Simplify.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Summarize.md",
+        "_assets/_private_data/copilot/copilot-custom-prompts/Translate to Chinese.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/日记": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "_assets/Notes": {
+      "children": [
+        "_assets/Notes/Obsidian使用",
+        "_assets/Notes/Python爬虫"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/Notes/Obsidian使用": {
+      "children": [
+        "_assets/Notes/Obsidian使用/Pasted image 20251218235902.jpg",
+        "_assets/Notes/Obsidian使用/Pasted image 20251219000238.jpg",
+        "_assets/Notes/Obsidian使用/Pasted image 20251219000322.jpg",
+        "_assets/Notes/Obsidian使用/Pasted image 20251219000623.jpg",
+        "_assets/Notes/Obsidian使用/Pasted image 20260103222258.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/Notes/Python爬虫": {
+      "children": [
+        "_assets/Notes/Python爬虫/Pasted image 20251227230842.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228003607.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228003740.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228011018.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228011133.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228013410.png",
+        "_assets/Notes/Python爬虫/Pasted image 20251228214411.jpg",
+        "_assets/Notes/Python爬虫/Pasted image 20251228214647.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/zzz": {
+      "children": [
+        "_assets/zzz/202601030104",
+        "_assets/zzz/202601031716",
+        "_assets/zzz/未命名"
+      ],
+      "sortOrder": "custom"
+    },
+    "_assets/zzz/202601030104": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "_assets/zzz/202601031716": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "_assets/zzz/未命名": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "_template": {
+      "children": [
+        "_template/common.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "日记": {
+      "children": [
+        "日记/日记.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Excalidraw": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes": {
+      "children": [
+        "Notes/Obsidian使用.md",
+        "Notes/Python爬虫.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "zzz": {
+      "children": [
+        "zzz/zzz.md",
+        "zzz/未命名.base",
+        "zzz/未命名.md",
+        "zzz/未命名 1.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "bottom"
+}
